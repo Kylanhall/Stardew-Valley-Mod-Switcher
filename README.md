@@ -25,7 +25,7 @@ In the stardew valley folder, a folder might be stuck as `Mods`. It's generally 
 Since I'm trying to learn C#, I might try to make an actual program that will do this in a much more elegant manner, rather than a .bat file. I like this program however, since SMAPI opens a CMD window anyways, it's not opening anything extra.
 
 # Warranty
-This comes with absolutely not warranty at all, to make edits to the .bat file, right click on the file and edit it in a notepad.
+This comes with absolutely no warranty at all, to make edits to the .bat file, right click on the file and edit it in a notepad.
 
 # Credits
 Thanks to Prism Minecraft Launcher, for inspiring me to recreate the "Instance" idea.
