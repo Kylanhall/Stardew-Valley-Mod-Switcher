@@ -4,12 +4,23 @@ This is a simple batch file that I created for use for me and my family since we
 # Getting Set Up
 Getting set up is very straight forward.
 1. Create `Mods_1`, `Mods_2`, `Mods_3`, `Mods_4`, and `Mods_5` folders into your Stardew Valley folder.
-2. Change Stardew Valley's Steam Properties to the .bat file. So for instance, `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%` will become `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mod_Switcher.bat" %command%`
-3. After that, load up each folder like you would your normal `Mods` folder.
+2. Change Stardew Valley's Steam Properties to the .bat file. So for instance,
+   
+     `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%`
+   
+   will become
+   
+   `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mod_Switcher.bat" %command%`
+   
+4. After that, load up each folder like you would your normal `Mods` folder.
 
 # Common Problems
 1. "It's loading the same mods everytime"
-In the stardew valley folder, a folder might be stuck as `Mods`. It's generally easy to tell which one is missing, as you'll be missing say `Mods_2`. Just rename `Mods` back to `Mods_2`.
+   
+In the stardew valley folder, a folder might be stuck as `Mods`. It's generally easy to tell which one is missing, as you'll be missing say `Mods_2`. Just rename `Mods` back to `Mods_2` in this example.
+
+# Goals
+Since I'm trying to learn C#, I might try to make an actual program that will do this in a much more elegant manner, rather than a .bat file. I like this program however, since SMAPI opens a CMD window anyways, it's not opening anything extra.
 
 # Warranty
 This comes with absolutely not warranty at all, to make edits to the .bat file, right click on the file and edit it in a notepad.
