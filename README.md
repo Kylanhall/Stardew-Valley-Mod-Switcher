@@ -1,6 +1,8 @@
 # Stardew Valley Mod Switcher
 This is a simple batch file that I created for use for me and my family since we play multiplayer alot together. The idea is that each folder will be an instance of a mod "loadout." It's up to you and your friends to make sure all the files are up to date. We generally share the files through a file service, such as Dropbox, or OneDrive.
 
+![.gif to launch](https://i.imgur.com/ZQXWdLC.gif)
+
 # Getting Set Up
 Getting set up is very straight forward.
 1. Create `Mods_1`, `Mods_2`, `Mods_3`, `Mods_4`, and `Mods_5` folders into your Stardew Valley folder.
