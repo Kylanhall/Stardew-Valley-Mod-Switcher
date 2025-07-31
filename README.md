@@ -6,6 +6,8 @@ This is a simple batch file that I created for use for me and my family since we
 # Getting Set Up
 Getting set up is very straight forward.
 1. Create `Mods_1`, `Mods_2`, `Mods_3`, `Mods_4`, and `Mods_5` folders into your Stardew Valley folder.
+   
+   ![example of directory](https://i.imgur.com/xdK1g0K.png)
 2. Change Stardew Valley's Steam Properties to the .bat file. So for instance,
    
      `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%`
@@ -13,6 +15,8 @@ Getting set up is very straight forward.
    will become
    
    `"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mod_Switcher.bat" %command%`
+
+![steam properties](https://i.imgur.com/fnAMHh8.png)
    
 4. After that, load up each folder like you would your normal `Mods` folder.
 
@@ -25,7 +29,7 @@ In the stardew valley folder, a folder might be stuck as `Mods`. It's generally 
 Since I'm trying to learn C#, I might try to make an actual program that will do this in a much more elegant manner, rather than a .bat file. I like this program however, since SMAPI opens a CMD window anyways, it's not opening anything extra.
 
 # Warranty
-This comes with absolutely no warranty at all, to make edits to the .bat file, right click on the file and edit it in a notepad.
+This comes with absolutely no warranty at all. To make edits to the .bat file, right click on the file and edit it in a notepad.
 
 # Credits
-Thanks to Prism Minecraft Launcher, for inspiring me to recreate the "Instance" idea.
+Thanks to [Prism Minecraft Launcher](https://github.com/PrismLauncher/PrismLauncher), for inspiring me to recreate the "Instance" idea.
