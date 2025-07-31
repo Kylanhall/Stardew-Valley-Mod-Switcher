@@ -5,7 +5,7 @@ This is a simple batch file that I created for use for me and my family since we
 
 # Getting Set Up
 Getting set up is very straight forward.
-1. Create `Mods_1`, `Mods_2`, `Mods_3`, `Mods_4`, and `Mods_5` folders into your Stardew Valley folder.
+1. Rename `Mods` into `Mods_1`, and then create 4 more empty folders all named `Mods_2`, `Mods_3`, `Mods_4`, and `Mods_5` folders into your Stardew Valley folder.
    
    ![example of directory](https://i.imgur.com/xdK1g0K.png)
 2. Change Stardew Valley's Steam Properties to the .bat file. So for instance,
